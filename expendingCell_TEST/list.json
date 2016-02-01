@@ -1,0 +1,90 @@
+[
+{
+     "type": "автомобиль",
+     "model": "PORSHE",
+     "color": "серый",
+     "status": "б\\у",
+     "name": "Джо",
+     "phone_number": "+3801234567890"
+},
+ {
+     "type": "велосипед",
+     "model": "Azimut Girls",
+     "color": "розовый",
+     "status": "новый",
+     "name": "Фиби",
+     "phone_number": "+3801234567891"
+ },
+ {
+     "type": "мотоцикл",
+     "model": "BMV",
+     "color": "красный",
+     "status": "новый",
+     "name": "Ченглер",
+     "phone_number": "+3801234567892"
+ },
+ {
+     "type": "автомобиль",
+     "model": "PORSHE",
+     "color": "черный",
+     "status": "б\\у",
+     "name": "Моника",
+     "phone_number": "+3801234567893"
+ },
+ {
+     "type": "автомобиль",
+     "model": "PORSHE",
+     "color": "красный",
+     "status": "новый",
+     "name": "Рейчел",
+     "phone_number": "+3801234567894"
+ },
+ {
+     "type": "автомобиль",
+     "model": "Cabriolet",
+     "color": "красный",
+     "status": "б\\у",
+     "name": "Росс",
+     "phone_number": "+3801234567895"
+ },
+ {
+     "type": "автомобиль",
+     "model": "DAEWOO matiz",
+     "color": "желтый",
+     "status": "б\\у",
+     "name": "Гантер",
+     "phone_number": "+3801234567896"
+ },
+ {
+     "type": "автомобиль",
+     "model": "AUDI",
+     "color": "синий",
+     "status": "новый",
+     "name": "Майкл",
+     "phone_number": "+3801234567897"
+ },
+ {
+     "type": "автомобиль",
+     "model": "Cabriolet",
+     "color": "красный",
+     "status": "б\\у",
+     "name": "Мона",
+     "phone_number": "+3801234567898"
+ },
+ {
+     "type": "автомобиль",
+     "model": "ЗАЗ 2101",
+     "color": "белый",
+     "status": "б\\у",
+     "name": "Пауло",
+     "phone_number": "+3801234567899"
+ },
+ {
+     "type": "автомобиль",
+     "model": "Mersedes",
+     "color": "зеленый",
+     "status": "б\\у",
+     "name": "Голый мужик",
+     "phone_number": "+3801234567810"
+ }
+]
