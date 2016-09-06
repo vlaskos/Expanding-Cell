@@ -5,7 +5,7 @@ Language: Objective-C.
 
 ##GIF of the interface
 
-<img src="https://github.com/vlaskos/Expending-Cell/blob/master/Resources/3.png" width="300">
+![](https://github.com/vlaskos/Expending-Cell/blob/master/Resources/3.png)
 
 ##Screenshots of the interface
 
