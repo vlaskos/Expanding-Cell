@@ -5,7 +5,7 @@ Language: Objective-C.
 
 ##GIF of the interface
 
-![](https://github.com/vlaskos/Expending-Cell/blob/master/Resources/3.png)
+![](https://github.com/vlaskos/Expanding-Cell/blob/master/Resources/3.gif)
 
 ##Screenshots of the interface
 
