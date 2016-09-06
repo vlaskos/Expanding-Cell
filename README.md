@@ -3,6 +3,10 @@
 The application shows how cells can be expanded in UITableView.
 Language: Objective-C.
 
+##GIF of the interface
+
+<img src="https://github.com/vlaskos/Expending-Cell/blob/master/Resources/3.png" width="300">
+
 ##Screenshots of the interface
 
 <img src="https://github.com/vlaskos/Expending-Cell/blob/master/Resources/1.png" width="300">
